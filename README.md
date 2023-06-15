@@ -2,13 +2,13 @@
 
 > @Brief：该仓库是AMASLAB 基于视觉SLAM的移动机器人系统（VSLAM Based Mobile Robot  System）项目文档。
 >
-> @Author：[Li Dong](https://github.com/DoongLi)
+> @Author：[Dong Li](https://github.com/DoongLi)
 >
 > @Date：2022-10-13
 >
 > @Github Link：[https://github.com/SUSTech-AMASLAB/VSLAM_Based_Mobile_Robot_Project](https://github.com/SUSTech-AMASLAB/VSLAM_Based_Mobile_Robot_Project)
 >
-> @Project Author：[喻锦城](https://github.com/SunstanYu)、[Li Dong](https://github.com/DoongLi)
+> @Project Author：[喻锦城](https://github.com/SunstanYu)、[Dong Li](https://github.com/DoongLi)
 
 ## Introduction
 
